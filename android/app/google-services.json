@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174913252735",
+    "project_id": "yocharge-d93bc",
+    "storage_bucket": "yocharge-d93bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174913252735:android:87e64f15b4ff1ad48cbe4a",
+        "android_client_info": {
+          "package_name": "com.yocharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174913252735-i2u8d7gijt1t276spfppa96t50k8dsbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yocharge",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "174913252735-cs9t98fddecvpld9uf7jsf2rleg7u6lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1sKVyNLNCOgd1qkFfUr05uZ3licdCQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174913252735-cs9t98fddecvpld9uf7jsf2rleg7u6lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
